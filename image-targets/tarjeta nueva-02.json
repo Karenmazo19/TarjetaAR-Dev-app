@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 49,
+    "left": 0,
+    "width": 768,
+    "height": 1024,
+    "isRotated": true,
+    "originalWidth": 768,
+    "originalHeight": 1122
+  },
+  "imagePath": "image-targets/tarjeta nueva-02_luminance.jpg",
+  "metadata": null,
+  "name": "tarjeta nueva-02",
+  "resources": {
+    "originalImage": "tarjeta nueva-02_original.jpg",
+    "croppedImage": "tarjeta nueva-02_cropped.jpg",
+    "thumbnailImage": "tarjeta nueva-02_thumbnail.jpg",
+    "luminanceImage": "tarjeta nueva-02_luminance.jpg"
+  },
+  "created": 1790712516638,
+  "updated": 1790712516638
+}

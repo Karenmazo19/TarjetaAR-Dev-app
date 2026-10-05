@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 68,
+    "left": 0,
+    "width": 650,
+    "height": 866,
+    "isRotated": true,
+    "originalWidth": 650,
+    "originalHeight": 1004
+  },
+  "imagePath": "image-targets/tarjeta - copia-01_luminance.jpg",
+  "metadata": null,
+  "name": "tarjeta - copia-01",
+  "resources": {
+    "originalImage": "tarjeta - copia-01_original.jpg",
+    "croppedImage": "tarjeta - copia-01_cropped.jpg",
+    "thumbnailImage": "tarjeta - copia-01_thumbnail.jpg",
+    "luminanceImage": "tarjeta - copia-01_luminance.jpg"
+  },
+  "created": 1790630096938,
+  "updated": 1790630096938
+}
