@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 49,
+    "left": 0,
+    "width": 768,
+    "height": 1024,
+    "isRotated": true,
+    "originalWidth": 768,
+    "originalHeight": 1122
+  },
+  "imagePath": "image-targets/tarjeta nueva_Mesa de trabajo 1_luminance.png",
+  "metadata": null,
+  "name": "tarjeta nueva_Mesa de trabajo 1",
+  "resources": {
+    "originalImage": "tarjeta nueva_Mesa de trabajo 1_original.png",
+    "croppedImage": "tarjeta nueva_Mesa de trabajo 1_cropped.png",
+    "thumbnailImage": "tarjeta nueva_Mesa de trabajo 1_thumbnail.png",
+    "luminanceImage": "tarjeta nueva_Mesa de trabajo 1_luminance.png"
+  },
+  "created": 1791230681890,
+  "updated": 1791230681890
+}
