@@ -228,6 +228,90 @@
       "name": "Plano",
       "order": 8.199252032263736,
       "disabled": true
+    },
+    "9eee03d3-6e17-47c5-ab27-12992a48ce01": {
+      "id": "9eee03d3-6e17-47c5-ab27-12992a48ce01",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "c5e852ae-b6b0-4d18-8fd3-564158b461f1",
+      "components": {},
+      "name": "Behance",
+      "order": 9.488173042197985
+    },
+    "f2271a51-a546-4478-aab6-d7245bf9d427": {
+      "id": "f2271a51-a546-4478-aab6-d7245bf9d427",
+      "position": [
+        -0.03802999495811027,
+        1.7646406163667692,
+        2.5744689239214695
+      ],
+      "rotation": [
+        -0.0011801620702362261,
+        -0.21184409325113393,
+        -0.0325645001908871,
+        0.9767600732520808
+      ],
+      "scale": [
+        0.5695106675277509,
+        0.5695106675277521,
+        0.569510667527751
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1,
+        "height": 1
+      },
+      "material": {
+        "type": "unlit",
+        "color": "#FFFFFF",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/behance.png"
+        },
+        "transparent": true
+      },
+      "parentId": "9eee03d3-6e17-47c5-ab27-12992a48ce01",
+      "components": {
+        "a7799412-4e67-45df-a0b3-cd7806133012": {
+          "id": "a7799412-4e67-45df-a0b3-cd7806133012",
+          "name": "Open URL 3D Object",
+          "parameters": {
+            "enabled": true,
+            "url": "https://www.behance.net/karenmazo2",
+            "openInNewTab": true
+          }
+        },
+        "c4d70bc0-f687-41b5-a16d-5a1186953e83": {
+          "id": "c4d70bc0-f687-41b5-a16d-5a1186953e83",
+          "name": "Chroma Key",
+          "parameters": {
+            "enabled": true,
+            "keyRed": 224,
+            "keyGreen": 212,
+            "keyBlue": 203,
+            "tolerance": 0.1,
+            "softness": 0.015
+          }
+        }
+      },
+      "name": "behance.png",
+      "order": 1.1958468298488736
     }
   },
   "spaces": {
