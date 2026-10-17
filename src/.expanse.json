@@ -112,7 +112,13 @@
       "geometry": null,
       "material": null,
       "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
-      "components": {},
+      "components": {
+        "23ee078a-1738-445c-95c6-c838b3ee5960": {
+          "id": "23ee078a-1738-445c-95c6-c838b3ee5960",
+          "name": "Image Target Debug",
+          "parameters": {}
+        }
+      },
       "name": "Objetivo de la imagen",
       "imageTarget": {
         "name": "tarjeta nueva-02"
